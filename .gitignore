@@ -1,0 +1,5 @@
+src/java/client/proto/
+target/
+.lein-repl-history
+*.swp
+store/
