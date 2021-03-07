@@ -1,10 +1,10 @@
-[Jepsen](https://github.com/jepsen-io/jepsen) tests for [LattiStore](https://github.com/LattiStore/lattistore).
+[Jepsen](https://github.com/jepsen-io/jepsen) tests for [LattiStore](https://github.com/LPaxos/lattistore).
 
 ## Prerequisites
 
 Clone the repository:
 ```
-git clone https://github.com/LattiStore/jepsen.git
+git clone https://github.com/LPaxos/jepsen.git
 cd jepsen
 ```
 Pull the submodule (there is one with a protobuf file):
